@@ -1,2 +1,2 @@
 # Finnish-Yellow-Legacy-translation
-A Finnish translation of the romhack Yellow Legacy originaly made by TheSmithPlays and the pokemon Yellow Legacy team. There are two versions, one with added stuff I have made and one where only the original game is translated.
+A Finnish translation of the romhack Yellow Legacy originaly made by TheSmithPlays and the pokemon Yellow Legacy team. There are two versions, one with added stuff I have made and one where only the original romhack is translated.
