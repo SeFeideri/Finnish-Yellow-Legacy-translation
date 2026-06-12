@@ -1,5 +1,5 @@
 # Finnish-Yellow-Legacy-translation
-A Finnish translation of the romhack Yellow Legacy originaly made by TheSmithPlays and the pokemon Yellow Legacy team. There are two versions, one with added stuff I have made and one where only the original romhack is translated.
+A Finnish translation of the romhack Yellow Legacy originaly made by TheSmithPlays and the pokemon Yellow Legacy team. There are two versions, one with added stuff me and my friend have made and one where only the original romhack is translated.
 # My added stuff
 Things that i have added:
 - Fixed a bug where badge boost gave EVERYBODY ELSE BUT PIKACHU 1.25x bonus. Now only Pikakchu gets that and the rest get the intnted 1.125x bonus.
