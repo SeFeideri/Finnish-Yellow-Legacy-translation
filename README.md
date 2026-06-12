@@ -1,7 +1,10 @@
 # Finnish-Yellow-Legacy-translation
 A Finnish translation of the romhack Yellow Legacy originaly made by TheSmithPlays and the pokemon Yellow Legacy team. There are two versions, one with added stuff me and my friend have made and one where only the original romhack is translated.
 # My added stuff
-Things that i have added:
+Things that i have added that affect the mechanics:
+- Fixed a bug where badge boost gave EVERYBODY ELSE BUT PIKACHU 1.25x bonus. Now only Pikakchu gets that and the rest get the intnted 1.125x bonus.
+
+Things that we have added that are just QOL changes:
 - Fixed a bug where badge boost gave EVERYBODY ELSE BUT PIKACHU 1.25x bonus. Now only Pikakchu gets that and the rest get the intnted 1.125x bonus.
 - Moves' power and accuracy are visible in battle.
 - Moves' power, accuracy and short description of their abilites are displayed when learning a new move.
