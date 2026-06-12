@@ -5,7 +5,6 @@ Things that i have added that affect the mechanics:
 - Fixed a bug where badge boost gave EVERYBODY ELSE BUT PIKACHU 1.25x bonus. Now only Pikakchu gets that and the rest get the intnted 1.125x bonus.
 
 Things that we have added that are just QOL changes:
-- Fixed a bug where badge boost gave EVERYBODY ELSE BUT PIKACHU 1.25x bonus. Now only Pikakchu gets that and the rest get the intnted 1.125x bonus.
 - Moves' power and accuracy are visible in battle.
 - Moves' power, accuracy and short description of their abilites are displayed when learning a new move.
 - Move to be learned also visible when learning new move.
