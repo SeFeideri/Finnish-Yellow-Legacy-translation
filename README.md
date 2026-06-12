@@ -15,7 +15,7 @@ Things that i have added:
 - A postgame battle with BILL where you get all 3 eeveelutioons at lvl 26 after you beat BILL. To activate this, make sure you have talked with the new guy in pokecenters :). Bill has 5 pokemon at mostly postgame gymleader levels. You can propalbly guess atleast 4 of them. NOTE! Bill's sprite is currently just a pshychic with their levitating pokeballs removed and whose hair is bigger. We tried to make a propper sprite, but neither of us have never done pixel art so we might not be abel to.
 - Some easter eggs.
 # Translating the gamne yourself
-I have also english version of my added stuff version and also guiders on how you can translate my version or the original Yellow Legacy yourself. Theu can be found here: https://github.com/SeFeideri/Translation-guide-and-my-added-features-for-Yellow-Legacy
+I have also an english version of my added stuff version and also guiders on how you can translate my version or the original Yellow Legacy yourself. They can be found here: https://github.com/SeFeideri/Translation-guide-and-my-added-features-for-Yellow-Legacy
 # Yellow Legacy
 Big thanks to SmithPlaysPokemon and the Yellow Legacy Team for making the original yellow legacy romhack! You can find more about them in the original git for Yellow Legacy.
 - Yellow Legacy official git: https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy 
